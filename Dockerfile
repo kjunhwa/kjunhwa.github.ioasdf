@@ -1,4 +1,4 @@
-ARG JEKYLL_BASEURL=''
+ARG JEKYLL_BASEURL='kjunhwa.github.io'
 
 ####################################
 
